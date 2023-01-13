@@ -1,0 +1,19 @@
+div {
+  background: lightsteelblue;
+}
+
+.root_class{
+  background-color: lightskyblue;
+}
+
+input {
+  background: lightcoral;
+}
+
+button{
+  background: lightgreen;
+}
+
+#root_id{
+  width:500px;
+}
